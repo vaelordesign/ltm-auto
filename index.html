@@ -62,17 +62,10 @@
 
   <section class="hero">
     <div class="hero-fond" aria-hidden="true">
-      <svg viewBox="0 0 1200 500" preserveAspectRatio="xMidYMid slice">
-        <rect width="1200" height="500" fill="var(--acier-fonce)"/>
-        <g opacity="0.5">
-          <rect x="0" y="0" width="1200" height="500" fill="url(#diag)"/>
-          <pattern id="diag" width="60" height="60" patternUnits="userSpaceOnUse" patternTransform="rotate(20)">
-            <rect width="30" height="60" fill="var(--acier)" opacity="0.25"/>
-          </pattern>
-        </g>
-        <circle cx="1020" cy="110" r="190" fill="var(--orange)" opacity="0.2"/>
-        <circle cx="120" cy="420" r="150" fill="var(--orange)" opacity="0.15"/>
-      </svg>
+      <!-- MARQUE-PHOTO-HEROS -->
+      <img class="v3-photo" src="images/heros.jpg" alt="Un mécanicien au travail sur un moteur" fetchpriority="high">
+      <div class="hero-voile"></div>
+      <div data-vfond='{"motif":"grille","couleur":"#E06A2C","couleur2":"#F1F0EC","opacite":0.4,"dessous":false}'></div>
     </div>
     <div class="hero-contenu">
       <p class="hero-etiquette">Garage général · Laval · Depuis 2004</p>
@@ -229,5 +222,6 @@
 </script>
 <script src="protection-demo.js"></script>
 <script src="js/script.js"></script>
+<script src="fond-anime.js"></script>
 </body>
 </html>
