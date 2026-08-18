@@ -14,7 +14,7 @@ En cherchant votre site, j'ai remarqué que ltmautoinc.com n'affiche plus votre 
 
 Alors je vous ai construit un nouveau site, avec une nouvelle adresse :
 
-https://charlesmartel2506.github.io/ltm-auto/
+https://vaelordesign.github.io/ltm-auto/
 
 Gratuit, aucune obligation. Ça vous représente bien ?
 
